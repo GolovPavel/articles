@@ -4,4 +4,6 @@
 *.gz
 *.pdf
 
+# Java byte-code files
+*.class
 
