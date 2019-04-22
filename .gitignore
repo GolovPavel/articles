@@ -1,0 +1,7 @@
+# TeX optional files
+*.aux
+*.log
+*.gz
+*.pdf
+
+
